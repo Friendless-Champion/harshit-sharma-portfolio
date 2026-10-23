@@ -12,6 +12,7 @@ A lightweight static portfolio built with HTML, CSS, and vanilla JavaScript. No 
 - `assets/portfolio.css` — responsive visual system and reduced-motion styles.
 - `assets/portfolio.js` — photo-frame and email-form behavior.
 - `assets/machine.js` — decorative mechanical background illustration.
+- `assets/motion.js` — optional scroll-animation helper; the site does not depend on it.
 - `favicon.svg` and `assets/og-image.png` — site icon and social sharing artwork.
 
 The visual system uses Oxanium for headings, DM Sans for body text, and IBM Plex Mono for technical labels. Experience text is static HTML; empty photo frames remain hidden until real image URLs are added.
